@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 ruby '2.1.3'
 
+gem 'pry-rails'
+gem 'hirb'
 gem 'devise'
 gem 'puma'
 gem 'will_paginate'
